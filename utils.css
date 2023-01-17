@@ -1,0 +1,28 @@
+.text-center{
+  text-align: center;
+}
+
+.mx-auto{
+  margin: auto;
+}
+
+.bg-primary{
+  background: grey;
+}
+
+/* .m-w-20{
+  margin: 30vw;
+} */
+.flex{
+  display: flex;
+}
+.flex-col{
+  flex-direction: column;
+}
+.row-button{
+  padding: 5px;
+  margin: 2px 2px;
+  border: 2px solid black;
+  border-radius: 8px;
+}
+
